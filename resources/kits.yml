@@ -22,7 +22,9 @@ testkit:
 
   commands:
   - "tell {player} you got an awesome kit thanks to AdvancedKits plugin!"
+  - "xp {player} 10
 
+  money:0
   cooldown:
     hours: 24
     minutes: 30
